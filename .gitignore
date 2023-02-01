@@ -1,0 +1,13 @@
+*.metadata
+*inet4.3
+*veins_inet
+
+# Ignore everything in this folder
+/Simu5G-1.2.0/* 
+
+veins/*
+# Folder to not ignore
+!/.gitignore
+!/Simu5G-1.2.0/simulations
+!/Simu5G-1.2.0/src
+!/veins/src

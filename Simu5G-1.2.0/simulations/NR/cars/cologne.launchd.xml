@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!-- cologne.launchd.xml -->
+
+<launch>
+    <copy file="cologne.net.xml" />
+    <copy file="cologne.rou.xml" />
+    <copy file="cologne.poly.xml" />
+    <copy file="cologne.sumo.cfg" type="config" />
+</launch>
